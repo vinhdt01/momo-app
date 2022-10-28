@@ -5,11 +5,6 @@ import HomePage from './screens/HomePage'
 function App() {
   return (
     <div className="App">
-      {/* <Router>
-        <Routes>
-           <Route path='/' element={<HomePage/>}/>
-        </Routes>
-      </Router> */}
       <HomePage/>
     </div>
   );
